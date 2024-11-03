@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/untitled-1/"}
+{"dg-publish":true,"permalink":"/Untitled 1/"}
 ---
 
 gdg
